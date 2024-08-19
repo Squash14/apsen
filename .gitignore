@@ -1,0 +1,15 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+.DS_Store
+mochawesome-report/
+cypress/reports/
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
+cypress.env.json
+merged.json
+
+#dependencies
+node_modules/
+cypress/fixtures/token-stg.json
+xunit.xml
